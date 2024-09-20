@@ -1,6 +1,6 @@
 # swimclub
 
-A new Flutter project.
+A Flutter project That turn speech to text .
 
 ## Getting Started
 
